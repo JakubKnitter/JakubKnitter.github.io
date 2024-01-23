@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+}
+
+h1, h2, h3 {
+    color: #333;
+}
+
+address a {
+    color: #0066cc;
+}
+
+table {
+    border: 3px solid blue; 
+    border-collapse: collapse; 
+    width: 100%;
+}
+
+td {
+    padding: 10px;
+    text-align: center;
+    border: 3px solid blue; 
+}
